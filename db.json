@@ -1,0 +1,23 @@
+{
+  "products": [
+      {"id":1,"name":"Lizard, desert spiny","category":"Pink"},
+      {"id":2,"name":"Leopard, indian","category":"Maroon"},
+      {"id":3,"name":"Paddy heron (unidentified)","category":"Puce"},
+      {"id":4,"name":"Crane, black-crowned","category":"Violet"},
+      {"id":5,"name":"Owl, madagascar hawk","category":"Pink"},
+      {"id":6,"name":"Tasmanian devil","category":"Violet"},
+      {"id":7,"name":"Arctic hare","category":"Red"},
+      {"id":8,"name":"Australian brush turkey","category":"Goldenrod"},
+      {"id":9,"name":"Lion, steller sea","category":"Indigo"},
+      {"id":10,"name":"King vulture","category":"Goldenrod"},
+      {"id":11,"name":"Madagascar hawk owl","category":"Turquoise"},
+      {"id":12,"name":"Sage hen","category":"Green"},
+      {"id":13,"name":"Guanaco","category":"Red"},
+      {"id":14,"name":"Red-winged blackbird","category":"Goldenrod"},
+      {"id":15,"name":"Jaguarundi","category":"Khaki"},
+      {"id":16,"name":"White-bellied sea eagle","category":"Fuscia"},
+      {"id":17,"name":"Stanley crane","category":"Fuscia"},
+      {"id":18,"name":"Screamer, crested","category":"Teal"},
+      {"id":19,"name":"Springbuck","category":"Puce"},
+      {"id":20,"name":"Kinkajou","category":"Violet"}
+]}
